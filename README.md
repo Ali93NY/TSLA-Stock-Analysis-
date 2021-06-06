@@ -11,7 +11,7 @@ performance is in comparison to the overall market starting from 2019 up to Dec 
 impacts the company share’s price. 
 
 ### Method:
-Tesla’s share price data from to January 1st 2019 up to December 4th 2020 will be taken from Yahoo Finance. Correlation analysis and linear regression will be used to explore certain trends on TSLA stock in comparison to the overall market. The correlation analysis will involve using rolling correlation across time to extract informative patterns of TSLA stock with the market. The linear regression will be used to compare TSLA linear trends before COVID-19 and after. It will also be utilized to quantify how TSLA share price varies as a function of SPY and QQQ by calculating the parameter Beta (𝛽) which is a coefficient that measures the volatility of a stock compared to the market as whole.
+Tesla’s share price data from to January 1st 2019 up to December 4th 2020 will be taken from Yahoo Finance. Correlation analysis and linear regression will be used to explore certain trends on TSLA stock in comparison to the overall market which will represented by SPY ETF which tracks the S&P 500 index and the QQQ ETF which tracks the the Nasdaq 100 index.  The correlation analysis will involve using rolling correlation across time to extract informative patterns of TSLA stock with the market. The linear regression will be used to compare TSLA linear trends before COVID-19 and after. It will also be utilized to quantify how TSLA share price varies as a function of SPY and QQQ by calculating the parameter Beta (𝛽) which is a coefficient that measures the volatility of a stock compared to the market as a whole.
 
 
 
