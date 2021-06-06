@@ -6,7 +6,7 @@ for various reasons such as the difficulty of mass producing EVs, and the compet
 startups and other legacy automakers like General Motors and Ford. Lately,
 many have realized they have been wrong on Tesla, as it has begun to disrupt the auto industry
 and change the future of transportation. All of this has been reflected in Tesla’s share price
-which has soared almost 800% since last year. In this project, we will examine how Tesla’s stock
+which has soared almost 800% since 2019. In this project, we will examine how Tesla’s stock
 performance is in comparison to the overall market starting from 2019 up to Dec 2020 and how COVID 19
 impacts the company share’s price. 
 
